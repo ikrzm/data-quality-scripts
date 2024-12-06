@@ -26,7 +26,7 @@ A collection of Python scripts to automate data quality checks and save your tea
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/data-quality-scripts.git
+git clone https://github.com/ikrzm/data-quality-scripts.git
 
 # Navigate to the project directory
 cd data-quality-scripts
@@ -127,12 +127,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
 
-Project Link: [https://github.com/yourusername/data-quality-scripts](https://github.com/yourusername/data-quality-scripts)
+Project Link: [https://github.com/yourusername/data-quality-scripts](https://github.com/ikrzm/data-quality-scripts)
 
 ## 📚 Additional Resources
 
-- [Medium Article](your-medium-article-link)
+- [Medium Article]([your-medium-article-link](https://medium.com/@datainsights17/3-python-scripts-that-will-transform-your-data-quality-checks-a-complete-guide-bca143b7d011))
 - [LinkedIn Post](your-linkedin-post-link)
-- [Documentation](your-documentation-link)

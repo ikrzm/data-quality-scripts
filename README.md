@@ -132,5 +132,6 @@ Project Link: [https://github.com/yourusername/data-quality-scripts](https://git
 
 ## 📚 Additional Resources
 
-- [Medium Article]([your-medium-article-link](https://medium.com/@datainsights17/3-python-scripts-that-will-transform-your-data-quality-checks-a-complete-guide-bca143b7d011))
+- [Medium Article](https://medium.com/@datainsights17/3-python-scripts-that-will-transform-your-data-quality-checks-a-complete-guide-bca143b7d011)
 - [LinkedIn Post](your-linkedin-post-link)
+  
